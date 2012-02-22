@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs
-      title="Support/Donate Buttons"
-      height="50"
-      width="90"
-  /> 
-  <Content
-      type="html"
-  >
+  <ModulePrefs title="Support/Donate Buttons">
+    <Require feature="dynamic-height" />
+  </ModulePrefs>
+
+  <Content type="html" >
     <![CDATA[
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -15,9 +12,12 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Donate">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-<hr />
 
 <img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" />
+
+<script type="text/javascript">
+  gadgets.window.adjustHeight();
+</script>
     ]]>
   </Content> 
 </Module>
