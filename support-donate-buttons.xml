@@ -19,6 +19,7 @@
 <td>
 <form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
   <input name="item_option_name_1" type="hidden" value="Donation"/>
+  <input name="item_option_price_1" type="text" value=""/>
   <input name="item_option_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator"/>
   <input name="item_option_quantity_1" type="hidden" value="1"/>
   <input name="item_option_currency_1" type="hidden" value="USD"/>
