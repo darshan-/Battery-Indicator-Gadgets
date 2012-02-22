@@ -3,8 +3,8 @@
   <ModulePrefs title="hello world example" /> 
   <Content
       type="html"
-      preferred_height="400"
-      preferred_width="100"
+      preferred_height="100"
+      preferred_width="400"
   >
     <![CDATA[ 
              Hello, world!
