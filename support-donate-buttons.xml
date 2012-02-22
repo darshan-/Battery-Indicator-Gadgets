@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="hello world example" /> 
+  <ModulePrefs
+      title="Support/Donate Buttons"
+      height="100"
+      width="400"
+  /> 
   <Content
       type="html"
       preferred_height="100"
