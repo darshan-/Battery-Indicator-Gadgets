@@ -6,7 +6,7 @@
     <![CDATA[
 <table border="0" width="300" height="75" bgcolor="#CCCCCC">
 <tr>
-<td align="center" valign="top">
+<td align="center" valign="middle">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4THHNCZYHA2DL">
@@ -15,7 +15,7 @@
 </form>
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="middle">
 <!--img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" /-->
 <img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text" />
 </td>
