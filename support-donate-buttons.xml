@@ -18,23 +18,15 @@
 <tr>
 <td>
 <form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
-  <table cellpadding="5" cellspacing="0" width="1%">
-    <tr>
-      <td align="right" width="1%">
-        <input name="item_option_name_1" type="hidden" value="Donation"/>
-        <input name="item_option_price_1" type="hidden" value=""/>
-        <input name="item_option_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator"/>
-        <input name="item_option_quantity_1" type="hidden" value="1"/>
-        <input name="item_option_currency_1" type="hidden" value="USD"/>
-        <input name="shopping-cart.item-options.items.item-1.digital-content.key" type="hidden" value="NbOoXsjPwOPdOYF0nJg5Gbuv2lUMVZCY312J6DV31Cs="/>
-        <input name="shopping-cart.item-options.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
-        <input name="shopping-cart.item-options.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
-      </td>
-      <td align="left" width="1%">
-        <input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&amp;w=117&amp;h=48&amp;style=trans&amp;variant=text&amp;loc=en_US" type="image"/>
-      </td>
-    </tr>
-  </table>
+  <input name="item_option_name_1" type="hidden" value="Donation"/>
+  <input name="item_option_price_1" type="hidden" value=""/>
+  <input name="item_option_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator"/>
+  <input name="item_option_quantity_1" type="hidden" value="1"/>
+  <input name="item_option_currency_1" type="hidden" value="USD"/>
+  <input name="shopping-cart.item-options.items.item-1.digital-content.key" type="hidden" value="NbOoXsjPwOPdOYF0nJg5Gbuv2lUMVZCY312J6DV31Cs="/>
+  <input name="shopping-cart.item-options.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
+  <input name="shopping-cart.item-options.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
+  <input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text" type="image"/>
 </form>
 </td>
 </tr>
