@@ -4,9 +4,9 @@
 
   <Content type="html">
     <![CDATA[
-<table border="0" width="350" bgcolor="#888888">
+<table border="0" width="350" bgcolor="red">
 <tr>
-<td valign="top">
+<td valign="top" bgcolor="blue">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4THHNCZYHA2DL">
@@ -15,7 +15,7 @@
 </form>
 </td>
 
-<td valign="top">
+<td valign="top" bgcolor="red">
 <img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" />
 </td>
 </tr>
