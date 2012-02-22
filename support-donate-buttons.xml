@@ -18,15 +18,16 @@
 <tr>
 <td>
 <form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
-  <input name="item_option_name_1" type="hidden" value="Donation"/>
-  <input name="item_option_price_1" type="text" value=""/>
-  <input name="item_option_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator"/>
-  <input name="item_option_quantity_1" type="hidden" value="1"/>
-  <input name="item_option_currency_1" type="hidden" value="USD"/>
-  <input name="shopping-cart.item-options.items.item-1.digital-content.key" type="hidden" value="NbOoXsjPwOPdOYF0nJg5Gbuv2lUMVZCY312J6DV31Cs="/>
-  <input name="shopping-cart.item-options.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
-  <input name="shopping-cart.item-options.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
-  <input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text" type="image"/>
+  <input name="item_name_1" type="hidden" value="Donation" />
+  <input name="item_price_1" type="text" value="" />
+  <input name="item_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator" />
+  <input name="item_quantity_1" type="hidden" value="1" />
+  <input name="item_currency_1" type="hidden" value="USD" />
+  <input name="item_is_modifiable_1" type="hidden" value="true" />
+  <input name="shopping-cart.item-options.items.item-1.digital-content.key" type="hidden" value="NbOoXsjPwOPdOYF0nJg5Gbuv2lUMVZCY312J6DV31Cs=" />
+  <input name="shopping-cart.item-options.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true" />
+  <input name="shopping-cart.item-options.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6" />
+  <input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text&loc=en_US" type="image"/>
 </form>
 </td>
 </tr>
