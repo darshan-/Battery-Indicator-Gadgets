@@ -4,7 +4,7 @@
 
   <Content type="html">
     <![CDATA[
-<table border="0" width="300" height="100" bgcolor="gray">
+<table border="0" width="300" height="75" bgcolor="gray">
 <tr>
 <td align="center" valign="top">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -16,7 +16,8 @@
 </td>
 
 <td align="center" valign="top">
-<img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" />
+<!--img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" /-->
+<img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text" />
 </td>
 </tr>
 </table>
