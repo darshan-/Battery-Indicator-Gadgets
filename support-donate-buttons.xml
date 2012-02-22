@@ -2,8 +2,8 @@
 <Module>
   <ModulePrefs
       title="Support/Donate Buttons"
-      height="100"
-      width="400"
+      height="50"
+      width="90"
   /> 
   <Content
       type="html"
