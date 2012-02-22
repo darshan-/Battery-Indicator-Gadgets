@@ -4,7 +4,7 @@
 
   <Content type="html">
     <![CDATA[
-<table border="0" width="350" bgcolor="gray">
+<table border="0" width="300" height="100" bgcolor="gray">
 <tr>
 <td align="center" valign="top">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
