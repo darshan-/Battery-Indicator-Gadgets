@@ -15,10 +15,10 @@
   <input name="shopping-cart.items.item-1.digital-content.key" type="hidden" value="hRDshmLMR/2T5xAHRkaIcFIJULB1MuGNNxkQTIxBugA="/>
   <input name="shopping-cart.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
   <input name="shopping-cart.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
-  <table border="0" width="240" height="65">
+  <table border="0" width="270" height="65">
     <tr>
-      <td width="90" valign="middle" align="right">USD$ <input name="item_price_1" type="text" value="" size="3" /></td>
-      <td width="150" valign="middle" align="left"><input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text&loc=en_US" type="image"/></td>   
+      <td width="110" valign="middle" align="right">USD$ <input name="item_price_1" type="text" value="" size="3" /></td>
+      <td width="160" valign="middle" align="left"><input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text&loc=en_US" type="image"/></td>   
     </tr>
   </table>
 </form></center>
