@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="Support/Donate Buttons" height="50" width="260" scrolling="false" />
+  <ModulePrefs title="Support/Donate Buttons" />
 
-  <Content type="html" preferred_height="50" preferred_width="260">
+  <Content type="html">
     <![CDATA[
 <style type="text/css">
 html, body,
@@ -15,7 +15,7 @@ h3, h4, h5
   border: 0;
 }
 
-html { height: 60px; margin-top: 17px;}
+html {margin-top: 17px;}
 </style>
 <center><form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
   <input name="item_name_1" type="hidden" value="Donation" />
@@ -28,9 +28,9 @@ html { height: 60px; margin-top: 17px;}
   <input name="shopping-cart.items.item-1.digital-content.key" type="hidden" value="hRDshmLMR/2T5xAHRkaIcFIJULB1MuGNNxkQTIxBugA="/>
   <input name="shopping-cart.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
   <input name="shopping-cart.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
-  <table border="0" cellpadding="0" cellspacing="0" width="260" height="50">
+  <table border="0" cellpadding="0" cellspacing="0" width="250" height="50">
     <tr>
-      <td width="130" height="50" valign="middle" align="right">(USD)$ <input name="item_price_1" type="text" value="" size="3" /></td>
+      <td width="120" height="50" valign="middle" align="right">(USD)$ <input name="item_price_1" type="text" value="" size="3" /></td>
       <td width="130" height="50" valign="middle" align="left"><input style="margin:0px; padding:0px; border:0px;" alt="Support" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" type="image"/></td>
     </tr>
   </table>
