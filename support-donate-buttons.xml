@@ -4,7 +4,7 @@
 
   <Content type="html">
     <![CDATA[
-<form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
+<center><form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
   <input name="item_name_1" type="hidden" value="Donation" />
   <input name="item_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator" />
   <input name="item_quantity_1" type="hidden" value="1" />
@@ -21,7 +21,7 @@
       <td valign="middle" align="left"><input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text&loc=en_US" type="image"/></td>   
     </tr>
   </table>
-</form>
+</form></center>
     ]]>
   </Content> 
 </Module>
