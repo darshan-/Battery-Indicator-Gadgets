@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="Support/Donate Buttons" height="65" width="300" />
+  <ModulePrefs title="Support/Donate Buttons" height="65" width="300" scrolling="false" />
 
   <Content type="html" preferred_height="65" preferred_width="300">
     <![CDATA[
