@@ -4,22 +4,8 @@
 
   <Content type="html">
     <![CDATA[
-<table border="0" width="300" height="175" bgcolor="#CCCCCC">
-<tr>
-<td align="center" valign="middle">
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4THHNCZYHA2DL"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a>
-</td>
-
-<td align="center" valign="middle">
-<!--img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text" /-->
-<img src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text" />
-</td>
-</tr>
-<tr>
-<td>
 <form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
   <input name="item_name_1" type="hidden" value="Donation" />
-  <input name="item_price_1" type="text" value="" />
   <input name="item_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator" />
   <input name="item_quantity_1" type="hidden" value="1" />
   <input name="item_currency_1" type="hidden" value="USD" />
@@ -29,12 +15,13 @@
   <input name="shopping-cart.items.item-1.digital-content.key" type="hidden" value="hRDshmLMR/2T5xAHRkaIcFIJULB1MuGNNxkQTIxBugA="/>
   <input name="shopping-cart.items.item-1.digital-content.key.is-encrypted" type="hidden" value="true"/>
   <input name="shopping-cart.items.item-1.digital-content.url" type="hidden" value="http://code.google.com/p/battery-indicator/wiki/Download?tm=6"/>
-  <input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=trans&variant=text&loc=en_US" type="image"/>
+  <table border="0" width="300" height="75">
+    <tr>
+      <td valign="middle" align="right">USD$ <input name="item_price_1" type="text" value="" size="3" /></td>
+      <td valign="middle" align="left"><input alt="" src="https://checkout.google.com/buttons/support.gif?merchant_id=223872044313258&w=130&h=50&style=white&variant=text&loc=en_US" type="image"/></td>   
+    </tr>
+  </table>
 </form>
-</td>
-</tr>
-</table>
-
     ]]>
   </Content> 
 </Module>
