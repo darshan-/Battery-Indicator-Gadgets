@@ -4,6 +4,17 @@
 
   <Content type="html" preferred_height="50" preferred_width="260">
     <![CDATA[
+<style type="text/css">
+html, body,
+img, table,
+div, p, h1, h2,
+h3, h4, h5
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+</style>
 <center><form action="https://checkout.google.com/api/checkout/v2/checkoutForm/Merchant/223872044313258" id="BB_BuyButtonForm" method="post" name="BB_BuyButtonForm" target="_top">
   <input name="item_name_1" type="hidden" value="Donation" />
   <input name="item_description_1" type="hidden" value="Donation to Darshan Computing, LLC to support development of Battery Indicator" />
